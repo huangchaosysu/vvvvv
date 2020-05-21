@@ -1,0 +1,32 @@
+@media screen and (max-width: 1280px) {
+    .img {
+        width: 140px;
+        height: 187px;
+    }
+}
+
+@media screen and (min-width: 1280px){
+    .img {
+        width: 154px;
+        height: 206px;
+    }
+}
+
+.viname {
+    max-width: 140px;
+    margin-top: 0.5em;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.img {
+    /* width: 140px;
+    height: 187px; */
+    /* padding-left: 0.5em;
+    padding-right: 0.5em; */
+}
+
+.video_item {
+    display: inline-block;
+    padding-right: 0.5em;
+    /* padding-left: 0.5em; */
+}

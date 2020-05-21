@@ -1,0 +1,64 @@
+.wrapper {
+    padding-left: 3em;
+    padding-right: 3em
+}
+
+.c1 {
+    color: rgba(255, 255, 255, 0.85);
+    text-align: left;
+}
+
+.c2 {
+    color: rgba(255, 255, 255, 0.85);
+    text-align: left;
+    max-height: 350px;
+    overflow: overlay;
+}
+
+.blk1 {
+    display: inline-block;
+    margin-left: 2em;
+}
+
+.cnt {
+    max-width: 40%;
+    font-size: 1.05em;
+}
+
+.recomend{
+    margin-bottom: -16px;
+}
+
+.recomend_wrapper{
+    margin-top: 2em;
+}
+
+.epblock{
+    margin-left: 1em;
+    color: rgba(255, 255, 255, 0.85);
+}
+
+.eprow {
+    padding-bottom: 1em;
+}
+
+.epname {
+    display: inline-block;
+    width: 5em;
+}
+
+.epdownload_type{
+    display: inline-block;
+    width: 5em;
+}
+
+.epcopy_type{
+    display: inline-block;
+    width: 7em;
+    cursor: pointer;
+    coor: blue;
+}
+
+.ib {
+    display: inline-block;
+}
